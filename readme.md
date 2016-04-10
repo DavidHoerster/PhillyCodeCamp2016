@@ -2,6 +2,9 @@
 
 This session will be a mix of presentation and hands-on labs.  If you want to participate in the hands-on portion, we'll be using the following tools and servers:
 
+##Presentation
+This session's slide deck can be found on [SlideShare](http://www.slideshare.net/dhoerster/reactive-development-commands-actors-and-events-oh-my).
+
 ##Pre-requisites
   - Visual Studio 2015
   - C# 6 (although you can use VS2013 and earlier C# - some scaffolded projects mainly use string interpolation)

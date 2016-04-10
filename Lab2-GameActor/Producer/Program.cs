@@ -14,7 +14,7 @@ namespace Producer
     {
         static void Main(string[] args)
         {
-            var fileName = args.Length == 0 ? "2015all.csv" : args[0];
+            var fileName = args.Length == 0 ? "PIT2015.csv" : args[0];
             var conn = RethinkDB.R
                        .Connection()
                        .Hostname("localhost")
